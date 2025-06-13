@@ -10,6 +10,9 @@
     <h1>Bem-vindo</h1>
     <a href="../visao/autores/listar.php">CRUD Autores</a>
     <a href="../visao/livros/listar.php">CRUD Livros</a>
+    <a href="../visao/categorias/listar.php">CRUD Categorias</a>
+    <p id="api-msg"></p>
   </div>
+  <script src="../js/script.js"></script>
 </body>
 </html>
